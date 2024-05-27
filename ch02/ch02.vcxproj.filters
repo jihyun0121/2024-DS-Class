@@ -42,5 +42,11 @@
     <ClCompile Include="mazeSearch2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="QueueArray1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueArray2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
