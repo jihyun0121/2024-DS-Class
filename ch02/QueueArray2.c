@@ -13,7 +13,6 @@ int add(int data) {
 	}queue[++rear % SIZE] = data;	//선형 큐에서 환형 큐로 바꾸기 위한 코드 ( % SIZE)
 	cnt++;	//선형 큐에서 환형 큐로 바꾸기 위한 코드
 	return 0;
-
 }
 int delete(void) {
 	if (cnt == 0) {	//선형 큐에서 환형 큐로 바꾸기 위한 코드 (cnt == 0)
