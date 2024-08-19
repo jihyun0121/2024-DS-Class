@@ -13,7 +13,7 @@ void RadixSort(int* a, int n) {
 		for (i = 0; i < n; i++) digit_cnt[a[i] / digit % 10]++;
 		for (i = 1; i < 10; i++) digit_cnt[i] += digit_cnt[i - 1];
 		for (i = n - 1; i >= 0; i--)
-			b[--digit_cnt[a[i] / digit % 10]] = a[i];
+			b[--digit_cnt[a[i] / digit % 10]] = a[i]; 
 		for (i = 0; i < n; i++) a[i] = b[i];
 		for (i = 0; i < 10; i++) digit_cnt[i] = 0;
 		for (i = 0; i < n; i++) printf("%6d", a[i]); printf("\n");
