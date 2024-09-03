@@ -24,5 +24,14 @@
     <ClCompile Include="radixSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="quickSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
