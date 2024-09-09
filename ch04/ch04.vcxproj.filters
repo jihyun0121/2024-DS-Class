@@ -33,5 +33,8 @@
     <ClCompile Include="quickSort3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="heapSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
