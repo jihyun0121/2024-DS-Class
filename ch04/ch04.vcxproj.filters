@@ -39,5 +39,8 @@
     <ClCompile Include="mergeSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sortExecution.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
