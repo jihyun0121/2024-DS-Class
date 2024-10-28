@@ -24,6 +24,6 @@ int main(void) {
 	index = binarySearch(a, n, key);
 
 	if (index >= 0) printf("%d를(을) %d위치에서 %d회 비교하여 찾음!\n", key, index, cnt);
-	else printf("%d은(는) 없는 데이터임!\n");												//말투 되게 다긍이 같다
+	else printf("없는 데이터임!\n");												//말투 되게 다긍이 같다
 	return 0;
 }
