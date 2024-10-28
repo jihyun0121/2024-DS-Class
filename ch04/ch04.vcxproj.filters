@@ -57,5 +57,8 @@
     <ClCompile Include="fibonacciSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DepthFirstSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
