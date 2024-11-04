@@ -60,5 +60,8 @@
     <ClCompile Include="DepthFirstSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BreadthFirstSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
