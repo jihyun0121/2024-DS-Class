@@ -69,5 +69,11 @@
     <ClCompile Include="DijkstraShortestpath2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RePermutation1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RePermutatuion2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
